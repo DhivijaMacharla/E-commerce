@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Red Printed T-Shirt", "price": 50, "image": "images/product-1.jpg" },
+    { "id": 2, "name": "Casual Shoes", "price": 70, "image": "images/product-2.jpg" },
+    { "id": 3, "name": "Denim Jacket", "price": 90, "image": "images/product-3.jpg" },
+    { "id": 4, "name": "Grey Hoodie", "price": 60, "image": "images/product-4.jpg" },
+    { "id": 5, "name": "Black Sunglasses", "price": 25, "image": "images/product-5.jpg" },
+    { "id": 6, "name": "Leather Bag", "price": 120, "image": "images/product-6.jpg" },
+    { "id": 7, "name": "Wrist Watch", "price": 150, "image": "images/product-7.jpg" },
+    { "id": 8, "name": "Sports Cap", "price": 30, "image": "images/product-8.jpg" }
+  ]
+  
+  
